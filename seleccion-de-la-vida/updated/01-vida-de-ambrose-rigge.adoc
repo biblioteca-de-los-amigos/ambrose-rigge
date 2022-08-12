@@ -566,7 +566,7 @@ Allí me mantuvieron hasta las sesiones de la corte,
 donde me dieron la sentencia de __premunire__^
 footnote:[Premunire era un juicio legal diseñado para privar de sus derechos
 a los que se negaban a jurar lealtad de manera formal al Rey de Inglaterra.
-Los que estaban bajo sentencia de premunire eran considerados traidores de su patria.
+Los que estaban bajo sentencia de __premunire__ eran considerados traidores de su patria.
 Perdían todos sus derechos a tener propiedades o posesiones,
 eran removidos de debajo de la protección del rey, y, a menudo,
 eran encarcelados de por vida.]
@@ -586,7 +586,7 @@ y Richard Bridger, llamados jueces, quienes me leyeron el juramento de lealtad.
 Y debido a que no podía jurar por causa de conciencia,
 me enviaron a la prisión de Horsham, el día 28 del tercer mes, 1662,
 donde permanecí hasta las sesiones de la corte,
-donde recibí la sentencia premunire por el juez Samuel Brown.
+donde recibí la sentencia _premunire_ por el juez Samuel Brown.
 
 Por la instigación del sacerdote Leonard Letchford antes mencionado,
 me mantuvieron prisionero sin ninguna libertad, y permanecí así por más de diez años,
@@ -603,7 +603,7 @@ En el sexto día del mes séptimo, 1664, tomé a Mary Luxford como mi esposa,
 quien era la segunda hija de Thomas Luxford, y de Elizabeth su esposa,
 de Hurst-Pierpoint en el condado de Sussex.
 Nos casamos en la prisión de Horsham,
-después de haber estado bajo la sentencia de premunire por dos
+después de haber estado bajo la sentencia de _premunire_ por dos
 años y de haber sido mantenido como prisionero sin libertad,
 en cuya prisión continué por ocho años y cuatro meses después de nuestro matrimonio,
 todo lo cual ella soportó con mucha paciencia.
@@ -713,9 +713,11 @@ y muchos fueron llevados al Señor, y establecidos en la fe del evangelio.
 [.asterism]
 '''
 
+[.offset]
 +++[+++Lo siguiente son extractos de dos tratados escritos por Ambrose Rigge
 y publicados junto con varias epístolas no mucho después de su muerte:]
 
+[.blurb]
 === Unas Pocas Palabras Respecto al Hombre en Su Estado Caído y Degenerado
 
 Todos los hombres son por naturaleza hijos de ira, como está escrito (Efesios 2:3),
@@ -809,9 +811,9 @@ están en el estado no regenerado ni transformado,
 alejados de Dios y ajenos en sus mentes a Su pacto de vida:
 Si encuentran algún deseo en ustedes de volver al Señor que los ha hecho,
 de que Él los salve del ardor de Su ira para siempre,
-entonces _dejen sus propias palabras, obras y caminos,
+entonces __dejen sus propias palabras, obras y caminos,
 y no se apresuren a correr antes de que su Hacedor
-los guíe por la mano en la luz de Su Verdad,_
+los guíe por la mano en la luz de Su Verdad,__
 con la cual Cristo los ha alumbrado,^
 footnote:[Juan 1:9]
 la cual resplandece en su oscuro corazón,^
@@ -918,11 +920,13 @@ no sea que pase el día de Su visitación, y el día de ira venga sobre ustedes,
 así como un ladrón en la noche.^
 footnote:[1 Tesalonicenses 5:2]
 
+[.signed-section-signature]
 Ambrose Rigge
 
 [.asterism]
 '''
 
+[.blurb]
 === La Gracia Interna y Espiritual de Dios Exaltada como el Único Maestro del Hombre.
 
 A toda la humanidad que está sobre la faz de la tierra le
@@ -1361,14 +1365,16 @@ humanidad el conocimiento de los misterios de la salvación de Dios;
 y todo conocimiento que carezca de este Espíritu es terrenal y carnal,
 y nunca puede darle vida al alma.
 
+[.signed-section-signature]
 Ambrose Rigge
 
+[.signed-section-context-close]
 Riegate, el 30 del Tercer mes, 1691.
 
 [.asterism]
 '''
 
-Como muchos otros fieles seguidores de Cristo,
+__Como muchos otros fieles seguidores de Cristo,
 la vida de Ambrose Rigge estuvo acompañada de mucha tribulación y persecución.
 En una epístola escrita a los Amigos en el norte de Inglaterra,
 escribió una vez: "`Queridos amigos,
@@ -1395,4 +1401,4 @@ y su amor y estima por la Verdad pura permaneció con él hasta el final,
 declarando lo siguiente un poco antes de su partida,
 "`Si los amigos se mantienen aferrados a la Raíz de la Vida en sí mismos,
 serán el pueblo más feliz en el mundo.`"
-Dejó esta vida el 20 del mes once de 1704, con más de setenta años.
+Dejó esta vida el 20 del mes once de 1704, con más de setenta años.__
